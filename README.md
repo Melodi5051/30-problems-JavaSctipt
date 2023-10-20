@@ -13,9 +13,9 @@
 - [Задача 3 "To Be Or Not To Be"](https://github.com/Melodi5051/30-problems-JavaSctipt/tree/main/problems/3-To%20Be%20Or%20Not%20To%20Be)
 - [Задача 4 "Counter II"](https://github.com/Melodi5051/30-problems-JavaSctipt/tree/main/problems/4-Counter%20II)
 ### Basic Array Transformations
-- [Задача 5 "Apply Transform Over Each Element in Array"]()
-- [Задача 6 "Filter Elements from Array"]()
-- [Задача 7 "Array Reduce Transformation"]()
+- [Задача 5 "Apply Transform Over Each Element in Array"](https://github.com/Melodi5051/30-problems-JavaSctipt/tree/main/problems/5-Apply%20Transform%20Over%20Each%20Element%20in%20Array)
+- [Задача 6 "Filter Elements from Array"](https://github.com/Melodi5051/30-problems-JavaSctipt/tree/main/problems/6-Filter%20Elements%20from%20Array)
+- [Задача 7 "Array Reduce Transformation"](https://github.com/Melodi5051/30-problems-JavaSctipt/tree/main/problems/7-Array%20Reduce%20Transformation)
 ### Function Transformations
 - [Задача 8 "Function Composition"]()
 - [Задача 9 "Return Length of Arguments Passed"]()
