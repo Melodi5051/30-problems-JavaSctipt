@@ -17,10 +17,10 @@
 - [Задача 6 "Filter Elements from Array"](https://github.com/Melodi5051/30-problems-JavaSctipt/tree/main/problems/6-Filter%20Elements%20from%20Array)
 - [Задача 7 "Array Reduce Transformation"](https://github.com/Melodi5051/30-problems-JavaSctipt/tree/main/problems/7-Array%20Reduce%20Transformation)
 ### Function Transformations
-- [Задача 8 "Function Composition"]()
-- [Задача 9 "Return Length of Arguments Passed"]()
-- [Задача 10 "Allow One Function Call"]()
-- [Задача 11 "Memoize"]()
+- [Задача 8 "Function Composition"](https://github.com/Melodi5051/30-problems-JavaSctipt/tree/main/problems/8-Function%20Composition)
+- [Задача 9 "Return Length of Arguments Passed"](https://github.com/Melodi5051/30-problems-JavaSctipt/tree/main/problems/9-Return%20Length%20of%20Arguments%20Passed)
+- [Задача 10 "Allow One Function Call"](https://github.com/Melodi5051/30-problems-JavaSctipt/tree/main/problems/10-Allow%20One%20Function%20Call)
+- [Задача 11 "Memoize"](https://github.com/Melodi5051/30-problems-JavaSctipt/tree/main/problems/11-Memoize)
 ### Promises and Time
 - [Задача 12 "Add Two Promises"]()
 - [Задача 13 "Sleep"]()
